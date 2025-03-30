@@ -49,7 +49,6 @@ JSON Output (amazon_smart_tv_data.json):
         "Price": "₹45,999",
         "Discount": "20%",
         "AI Review Summary": "Customers love the display quality and sound clarity...",
-        "Images": ["https://amazon.com/image1.jpg", "https://amazon.com/image2.jpg"]
       }
     ]
 
@@ -59,8 +58,8 @@ Customers love the display quality, mentioning its sharp colors and brightness l
 
 
 Feel free to fork this repo, submit pull requests, or raise issues. Contributions are always welcome!
-🏆 Author
 
+🏆 Author
 👤 DEV DUBEY
 📧 devdubey2002@gmail.com
 

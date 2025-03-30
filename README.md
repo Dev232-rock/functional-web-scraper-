@@ -21,6 +21,7 @@ BeautifulSoup	Parses static HTML content
 Selenium	Handles dynamic content
 Pandas	Structures and processes data
 OpenAI API	Generates AI-powered review summaries
+
 🚀 Installation & Setup
 1️⃣ Install Dependencies
 Make sure you have Python installed (>=3.7), then install the required libraries:
